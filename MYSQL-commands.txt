@@ -1,0 +1,6 @@
+<-----------MYSQL Commands from Scratch------------->
+1. SHOW DATABASES; => This command will use to SHOW all DB in our MYSQL.
+2. USE DB-NAME;    => This command will use to using/work on perticular DATABASE.
+3. CREATE DATABASE DB-NAME => This command will uses for creating new DATABASE.
+4. CREATE TABLE TABLE-NAME(TABLE-Attributes) => This command will used for creating table in DB.
+                         
